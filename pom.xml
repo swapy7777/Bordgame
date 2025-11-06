@@ -23,6 +23,7 @@
     		<sonar.language>java</sonar.language>
 	<properties>
             <sonar.organization>bordgame</sonar.organization>
+		    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>	
 	</properties>
 
